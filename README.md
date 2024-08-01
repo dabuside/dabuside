@@ -9,4 +9,4 @@ Here are some ideas to get you started:
   - Blog: [https://dabuside.github.io/](https://dabuside.github.io/)
   - Email: dabuside@gmail.com
 - 😄 Pronouns: The more I study, the more I realize my ignorance.
-- ⚡ Fun fact: [Work, Work.](https://wowwiki-archive.fandom.com/wiki/Quotes_of_Warcraft_III/Orc_Horde)
+- ⚡ Fun fact: [Work, Work](https://wowwiki-archive.fandom.com/wiki/Quotes_of_Warcraft_III/Orc_Horde) - Warcraft III/Orc Horde
